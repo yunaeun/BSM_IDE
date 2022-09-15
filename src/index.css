@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Noto Sans KR";
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  background-color: #0d1117;
+}
